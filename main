@@ -1,0 +1,6 @@
+cd /path/to/Level1_Hillyard
+git init
+git remote add origin https://github.com/<your-username>/SignWarsPrototype.git
+git add .
+git commit -m "Initial import of Level1_Hillyard prototype"
+git push -u origin main
